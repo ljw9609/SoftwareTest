@@ -6,4 +6,4 @@ install:
 script:
   - coverage run unitTest.py
 after_success:
-  - codecov  
+  - codecov --token=48668ac7-4e3a-45b5-9770-2ba97a81f6e1
