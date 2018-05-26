@@ -7,8 +7,8 @@
 
 ## 目录
 + 作业一：黑盒测试
-+ 作业二：白盒测试
-+ 作业三：GUI测试
++ 作业二：白盒测试(branch master)
++ 作业三：GUI测试(brance guitest)
 
 ### 作业二
 测试原程序为Python简单日历，输入年份，打印出该年份的日历。使用UnitTest进行单元测试，总体测试覆盖率为87%。项目在[Travis](https://travis.ci.com)持续集成和测试，测试覆盖率工具使用[Codecov](https://github.com/codecov)。
